@@ -1,2 +1,2 @@
-# Modulo2-PreC
-Este respositorio de prueba del precurso de Soy Henry
+Juan Carlos Valero Vergara  
+Este repositorio es una prueba de como se crean repositorios desde Github empleando archivo README
